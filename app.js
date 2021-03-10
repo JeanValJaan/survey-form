@@ -9,3 +9,7 @@
 // confirm('Hello');
 // prompt('yaşınzı giriniz', 35);
 document.body.innerHTML = '<h1> Clarusway Rocks</h1>';
+console.time
+console.log('messge')
+console.info('some info')
+
